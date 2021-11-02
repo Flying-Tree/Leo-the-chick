@@ -1,6 +1,6 @@
-# Leo-the-chick
+# Léo
 
-A little game where a chick named Léo has to go to a vane.
+A little game where a chick named Léo has to go to a weather vane. If you expect serious work, don't look here.
 
 ## Install
 
