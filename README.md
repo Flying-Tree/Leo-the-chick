@@ -15,11 +15,9 @@ The Linux packages have been tested on a computer running Linux Mint 19.3. The W
 
 ## Controles
 
-Escape to close the app
-
-WASD or the arrow keys to move
-
-Mouse to look arround
+- Escape to close the app
+- WASD or the arrow keys to move, **WASD equivalents such as ZQSD do not work**, please temporarily use the QWERTY (US) layout or use the arrow keys (less convenient)
+- Mouse to look arround
 
 ## Credits
 
