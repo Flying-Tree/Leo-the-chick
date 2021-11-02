@@ -2,16 +2,20 @@
 
 A little game where a chick named Léo has to go to a weather vane. If you expect serious work, don't look here.
 
-## Install
-
-I guess you can just extract the package anywhere and run ```Leo.exe```
-or ```leo.x86_64```(depending on your operating system) when you want to play (this might happen only once).
-
-Mac users : I've not yet built packages for your operating system.
-
 ## Warning
 
-The Linux packages have been tested on a computer running Linux Mint 19.3. The Windows packages have been tested on the same system using Wine.
+***Tests are not sufficient : the Linux packages have been tested on only one computer (running Linux Mint 19.3). The Windows packages have been tested on the same system using Wine. MacOS packages have not been tested.***
+
+## System requirements
+
+Currently, the only existing packages are for Mac and PC x86_64. You need a screen, a mice and a keyboard. As Unity is used, the systems must comply with [the requirements of Unity Player 2020 LTS](https://docs.unity3d.com/Manual/system-requirements.html#desktop). If your system can be supported, you can ask me to build packages.
+
+## Install
+
+On PC, I guess you can just extract the package anywhere and run ```Leo.exe```
+or ```leo.x86_64```(depending on your operating system) when you want to play (this might happen only once).
+
+If you have a Mac, I provide you the ouptut of the building process, but I can't help you.
 
 ## Controles
 
