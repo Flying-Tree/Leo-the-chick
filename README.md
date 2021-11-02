@@ -4,15 +4,8 @@ A little game where a chick named Léo has to go to a vane.
 
 ## Install
 
-I guess you can just extract the package anywhere and run 
-'''
-Leo.exe
-'''
-or 
-'''
-leo.x86_64
-'''
-(depending on your operating system) when you want to play (this might happen only once).
+I guess you can just extract the package anywhere and run ```Leo.exe```
+or ```leo.x86_64```(depending on your operating system) when you want to play (this might happen only once).
 
 Mac users : I've not yet build OS X packages.
 
