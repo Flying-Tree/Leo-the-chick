@@ -28,6 +28,6 @@ This game has been made using Unity (Personnal Edition) and the following assets
 - *Meshtint Free Chick Mega Toon Series*, from Meshtint Studio
 - *AOTL (An Open Texture Library)*, from Artificial Creations
 - *Fantasy Kindom - Building Pack Lite*, from xiaolianhuastudio
-- *Customizable skybox* from Key Mouse
+- *Customizable skybox*, from Key Mouse
 
-You are free to use the packages provided while respecting the licences of these products.
+You are free to use the provided packages if you respect the licenses of these products.
