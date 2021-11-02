@@ -25,7 +25,7 @@ If you have a Mac, I provide you the ouptut of the building process, but I can't
 
 ## Credits
 
-This game has been made using Unity (Personnal Edition) and the following assets :
+This game has been made using Unity (Personnal Edition) 2020.3.20f1 and the following assets :
 
 - *Meshtint Free Chick Mega Toon Series*, from Meshtint Studio
 - *AOTL (An Open Texture Library)*, from Artificial Creations
