@@ -21,6 +21,7 @@ If you have a Mac, I provide you the ouptut of the building process, but I can't
 
 - Escape to close the app
 - WASD or the arrow keys to move, **WASD equivalents such as ZQSD do not work**, please temporarily use the QWERTY (US) layout or use the arrow keys (less convenient)
+- Space to jump.
 - Mouse to look arround
 
 ## Credits
