@@ -4,7 +4,7 @@ A little game where a chick named Léo has to go to a weather vane. If you expec
 
 ## Warning
 
-***Tests are not sufficient : the Linux packages have been tested on only one computer (running Linux Mint 19.3 and KDE Plasma). The Windows packages have been tested on the same system using Wine. MacOS packages have not been tested.***
+***Tests are not sufficient :*** the Linux packages have been tested on only one computer (running Linux Mint 19.3 and KDE Plasma). The Windows packages have been tested on the same system using Wine. MacOS packages have not been tested.
 
 ## System requirements
 
