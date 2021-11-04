@@ -8,7 +8,7 @@ A little game where a chick named Léo has to go to a weather vane. If you expec
 
 ## System requirements
 
-Currently, the only existing packages are for Mac and x86_64 PC. You need a screen, a mice and a keyboard. As Unity is used, the systems must comply with [the requirements of Unity Player 2020 LTS](https://docs.unity3d.com/Manual/system-requirements.html#desktop). If your system can be supported, you can ask me to build packages.
+Currently, the only existing packages are for Mac and x86_64 PC (Linux and Windows). You need a screen, a mice and a keyboard. As Unity is used, the systems must comply with [the requirements of Unity Player 2020 LTS](https://docs.unity3d.com/Manual/system-requirements.html#desktop). If your system can be supported, you can ask me to build packages.
 
 ## Install
 
